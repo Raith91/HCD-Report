@@ -2,6 +2,14 @@
 \usepackage{fullpage}
 \usepackage{graphicx}
 
+\makeatletter
+\renewcommand\paragraph{%
+   \@startsection{paragraph}{4}{0mm}%
+      {-\baselineskip}%
+      {.5\baselineskip}%
+      {\normalfont\normalsize\bfseries}}
+\makeatother
+
 \setlength{\parindent}{0.0in}
 \setlength{\parskip}{0.1in}
 
@@ -135,6 +143,29 @@ previous scores.
 
 \section{Measuring Stress}
 \subsection{Existing Devices}
+\begin{center}
+    \includegraphics[scale=0.8]{img/existingdevices.png} \hspace{10mm} 
+    \includegraphics[scale=0.3]{img/q-sensor.jpg}\\
+    The Galvactivator and Q sensor
+\end{center}
+\subsubsection{The Galvactivator}
+The Galvactivator was created as a research exercise by harvard. Prior to it's creation,
+research involving monitoring skin conductivity required electrodes to be clipped to the
+experimentee's fingers. This had many drawbacks because it meant people could not be measured
+whilst going about their everyday lives, and it was very difficult to acquire participants
+such as children into these types of research programs. The goal of The Galvactivator was to
+create a wearable skin conductivity sensor that could be worn whilst going about day to day
+life. It is essentially a chip (seen on the left) with 2 small electrodes, held to the skin
+by a glove (center). 
+
+\subsubsection{Q sensor}
+The technology in the Galvactivator spawned a product called the Q sensor. It was originally 
+designed to measure emotional response in autistic children, this lead to a design incorporating
+the galvactivator technology into a wristband, and it had to be comfortable for children. The
+design also incorporates an accelerometer and a thermometer, it is also rechargable and has
+bluetooth connectivity. However the Q sensor is not available for individuals to buy, and is
+not designed with such thoughts in mind, it is marketed as a product for research institutions.
+
 \subsection{Our Proposed Devices}
 
 \section{Giving Feedback - Personalised, Gamified Website}
