@@ -1,42 +1,35 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  8 JUN 2012 11:51
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.9.29)  8 JUN 2012 13:31
 entering extended mode
- restricted \write18 enabled.
  %&-line parsing enabled.
 **report.tex
 (./report.tex
 LaTeX2e <2009/09/24>
-Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
-rman-x-2009-06-19, ngerman-x-2009-06-19, ancientgreek, ibycus, arabic, armenian
-, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danish, dutch, u
-kenglish, usenglishmax, esperanto, estonian, farsi, finnish, french, galician, 
-german, ngerman, swissgerman, monogreek, greek, hungarian, icelandic, assamese,
- bengali, gujarati, hindi, kannada, malayalam, marathi, oriya, panjabi, tamil, 
-telugu, indonesian, interlingua, irish, italian, kurmanji, lao, latin, latvian,
- lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, polish, portuguese, roma
-nian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, turkish,
- turkmen, ukrainian, uppersorbian, welsh, loaded.
-(/usr/local/texlive/2010/texmf-dist/tex/latex/koma-script/scrartcl.cls
-Document Class: scrartcl 2010/06/17 v3.06 KOMA-Script document class (article)
-(/usr/local/texlive/2010/texmf-dist/tex/latex/koma-script/scrkbase.sty
-Package: scrkbase 2010/06/17 v3.06 KOMA-Script package (KOMA-Script-dependent b
-asics and keyval usage)
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, ngerman, german, german-x-2009-06-19, ngerman-x-2009-06-19, ukengli
+sh, loaded.
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrartcl.cls
+Document Class: scrartcl 2009/07/24 v3.04a KOMA-Script document class (article)
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/koma-script/scrbase.sty
-Package: scrbase 2010/06/17 v3.06 KOMA-Script package (KOMA-Script-independent 
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2009/07/24 v3.04a KOMA-Script package (KOMA-Script-dependent 
 basics and keyval usage)
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2009/07/24 v3.04a KOMA-Script package (KOMA-Script-independent
+ basics and keyval usage)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/koma-script/scrlfile.sty
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrlfile.sty
 Package: scrlfile 2009/03/25 v3.03 KOMA-Script package (loading files)
 
 Package scrlfile, 2009/03/25 v3.03 KOMA-Script package (loading files)
                   Copyright (C) Markus Kohm
 
-))) (/usr/local/texlive/2010/texmf-dist/tex/latex/koma-script/tocbasic.sty
-Package: tocbasic 2010/06/09 v3.06 KOMA-Script package (handling toc-files)
+))) (/usr/share/texmf-texlive/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2009/06/08 v3.03b KOMA-Script package (handling toc-files)
 )
 Package tocbasic Info: omitting babel extension for `toc'
 (tocbasic)             because of feature `nobabel' available
@@ -48,17 +41,17 @@ Package tocbasic Info: omitting babel extension for `lot'
 (tocbasic)             because of feature `nobabel' available
 (tocbasic)             for `lot' on input line 117.
 Class scrartcl Info: File `scrsize11pt.clo' used instead of
-(scrartcl)           file `scrsize11.clo' to setup font sizes on input line 120
-9.
+(scrartcl)           file `scrsize11.clo' to setup font sizes on input line 117
+1.
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
-File: scrsize11pt.clo 2010/06/17 v3.06 KOMA-Script font size class option (11pt
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrsize11pt.clo
+File: scrsize11pt.clo 2009/07/24 v3.04a KOMA-Script font size class option (11p
+t)
 )
-)
-(/usr/local/texlive/2010/texmf-dist/tex/latex/koma-script/typearea.sty
-Package: typearea 2010/06/17 v3.06 KOMA-Script package (type area)
+(/usr/share/texmf-texlive/tex/latex/koma-script/typearea.sty
+Package: typearea 2009/07/24 v3.04a KOMA-Script package (type area)
 
-Package typearea, 2010/06/17 v3.06 KOMA-Script package (type area)
+Package typearea, 2009/07/24 v3.04a KOMA-Script package (type area)
                   Copyright (C) Frank Neukam, 1992-1994
                   Copyright (C) Markus Kohm, 1994-
 
@@ -83,7 +76,7 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \topskip        = 11.0pt
 (typearea)              \footskip       = 47.60002pt
 (typearea)              \baselineskip   = 13.6pt
-(typearea)              on input line 1133.
+(typearea)              on input line 1115.
 )
 \c@part=\count80
 \c@section=\count81
@@ -97,36 +90,147 @@ Package typearea Info: These are the values describing the layout:
 \c@figure=\count86
 \c@table=\count87
 \bibindent=\dimen102
-) (/usr/local/texlive/2010/texmf-dist/tex/latex/preprint/fullpage.sty
+) (/usr/share/texmf-texlive/tex/latex/preprint/fullpage.sty
 Package: fullpage 1999/02/23 1.1 (PWD)
 \FP@margin=\skip47
 )
-(./report.aux)
+(/usr/share/texmf-texlive/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2009/02/07 v0.4g Insert pages of external PDF documents (AM)
+
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texmf-texlive/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count89
+\calc@Bcount=\count90
+\calc@Adimen=\dimen105
+\calc@Bdimen=\dimen106
+\calc@Askip=\skip48
+\calc@Bskip=\skip49
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count91
+\calc@Cskip=\skip50
+)
+(/usr/share/texmf-texlive/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2006/07/14 v1.1d eso-pic (RN)
+
+(/usr/share/texmf-texlive/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texmf-texlive/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2009/02/07 v0.4g Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box27
+\AM@toc@title=\toks15
+\c@AM@survey=\count92
+\AM@templatesizebox=\box28
+) (./report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count93
+\scratchdimen=\dimen107
+\scratchbox=\box29
+\nofMPsegments=\count94
+\nofMParguments=\count95
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count96
+\MPscratchDim=\dimen108
+\MPnumerator=\count97
+\everyMPtoPDFconversion=\toks17
+) ABD: EveryShipout initializing macros
+(/usr/share/texmf-texlive/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 17.
+(Font)              <14.4> on input line 19.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 17.
+(Font)              <7> on input line 19.
  (./report.toc
+Class scrartcl Info: You've told me to use the font selection of the element
+(scrartcl)           `sectioning' that is an alias of element `disposition'
+(scrartcl)            on input line 1.
+Class scrartcl Info: You've told me to use the font selection of the element
+(scrartcl)           `sectioning' that is an alias of element `disposition'
+(scrartcl)            on input line 2.
+Class scrartcl Info: You've told me to use the font selection of the element
+(scrartcl)           `sectioning' that is an alias of element `disposition'
+(scrartcl)            on input line 3.
+Class scrartcl Info: You've told me to use the font selection of the element
+(scrartcl)           `sectioning' that is an alias of element `disposition'
+(scrartcl)            on input line 4.
+Class scrartcl Info: You've told me to use the font selection of the element
+(scrartcl)           `sectioning' that is an alias of element `disposition'
+(scrartcl)            on input line 5.
+Class scrartcl Info: You've told me to use the font selection of the element
+(scrartcl)           `sectioning' that is an alias of element `disposition'
+(scrartcl)            on input line 6.
+Class scrartcl Info: You've told me to use the font selection of the element
+(scrartcl)           `sectioning' that is an alias of element `disposition'
+(scrartcl)            on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 8.
+Class scrartcl Info: You've told me to use the font selection of the element
+(scrartcl)           `sectioning' that is an alias of element `disposition'
+(scrartcl)            on input line 11.
+Class scrartcl Info: You've told me to use the font selection of the element
+(scrartcl)           `sectioning' that is an alias of element `disposition'
+(scrartcl)            on input line 14.
+Class scrartcl Info: You've told me to use the font selection of the element
+(scrartcl)           `sectioning' that is an alias of element `disposition'
+(scrartcl)            on input line 17.
+Class scrartcl Info: You've told me to use the font selection of the element
+(scrartcl)           `sectioning' that is an alias of element `disposition'
+(scrartcl)            on input line 18.
+Class scrartcl Info: You've told me to use the font selection of the element
+(scrartcl)           `sectioning' that is an alias of element `disposition'
+(scrartcl)            on input line 19.
 )
 \tf@toc=\write3
 \openout3 = `report.toc'.
@@ -134,25 +238,127 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 
-{/usr/local/texlive/2010/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
 
-] [3] [4] [5] (./report.aux) ) 
+]
+<PDFResponses/Templatepg1x.png, id=11, 999.735pt x 588.69937pt>
+File: PDFResponses/Templatepg1x.png Graphic file (type png)
+
+<use PDFResponses/Templatepg1x.png>
+<PDFResponses/Templatepg2x.png, id=12, 999.735pt x 622.57594pt>
+File: PDFResponses/Templatepg2x.png Graphic file (type png)
+
+<use PDFResponses/Templatepg2x.png> [3 <./PDFResponses/Templatepg1x.png (PNG co
+py)> <./PDFResponses/Templatepg2x.png (PNG copy)>] [4] [5] [6]
+<PDFResponses/Ryman1.pdf, id=27, page=1, 597.23125pt x 845.1575pt>
+File: PDFResponses/Ryman1.pdf Graphic file (type pdf)
+
+<use PDFResponses/Ryman1.pdf, page 1>
+File: PDFResponses/Ryman1.pdf Graphic file (type pdf)
+ <use PDFResponses/Ryman1.pdf, page 1>
+File: PDFResponses/Ryman1.pdf Graphic file (type pdf)
+
+<use PDFResponses/Ryman1.pdf, page 1>
+File: PDFResponses/Ryman1.pdf Graphic file (type pdf)
+ <use PDFResponses/Ryman1.pdf, page 1>
+File: PDFResponses/Ryman1.pdf Graphic file (type pdf)
+
+<use PDFResponses/Ryman1.pdf, page 1> [7 <./PDFResponses/Ryman1.pdf, page is ro
+tated 90 degrees>]
+<PDFResponses/Ryman2.pdf, id=35, page=1, 597.23125pt x 845.1575pt>
+File: PDFResponses/Ryman2.pdf Graphic file (type pdf)
+
+<use PDFResponses/Ryman2.pdf, page 1>
+File: PDFResponses/Ryman2.pdf Graphic file (type pdf)
+ <use PDFResponses/Ryman2.pdf, page 1>
+File: PDFResponses/Ryman2.pdf Graphic file (type pdf)
+
+<use PDFResponses/Ryman2.pdf, page 1>
+File: PDFResponses/Ryman2.pdf Graphic file (type pdf)
+ <use PDFResponses/Ryman2.pdf, page 1>
+File: PDFResponses/Ryman2.pdf Graphic file (type pdf)
+
+<use PDFResponses/Ryman2.pdf, page 1> [8 <./PDFResponses/Ryman2.pdf, page is ro
+tated 90 degrees>]
+<PDFResponses/Kodak1.pdf, id=42, page=1, 597.23125pt x 845.1575pt>
+File: PDFResponses/Kodak1.pdf Graphic file (type pdf)
+
+<use PDFResponses/Kodak1.pdf, page 1>
+File: PDFResponses/Kodak1.pdf Graphic file (type pdf)
+ <use PDFResponses/Kodak1.pdf, page 1>
+File: PDFResponses/Kodak1.pdf Graphic file (type pdf)
+
+<use PDFResponses/Kodak1.pdf, page 1>
+File: PDFResponses/Kodak1.pdf Graphic file (type pdf)
+ <use PDFResponses/Kodak1.pdf, page 1>
+File: PDFResponses/Kodak1.pdf Graphic file (type pdf)
+
+<use PDFResponses/Kodak1.pdf, page 1> [9 <./PDFResponses/Kodak1.pdf, page is ro
+tated 90 degrees>]
+<PDFResponses/Kodak2.pdf, id=49, page=1, 597.23125pt x 845.1575pt>
+File: PDFResponses/Kodak2.pdf Graphic file (type pdf)
+
+<use PDFResponses/Kodak2.pdf, page 1>
+File: PDFResponses/Kodak2.pdf Graphic file (type pdf)
+ <use PDFResponses/Kodak2.pdf, page 1>
+File: PDFResponses/Kodak2.pdf Graphic file (type pdf)
+
+<use PDFResponses/Kodak2.pdf, page 1>
+File: PDFResponses/Kodak2.pdf Graphic file (type pdf)
+ <use PDFResponses/Kodak2.pdf, page 1>
+File: PDFResponses/Kodak2.pdf Graphic file (type pdf)
+
+<use PDFResponses/Kodak2.pdf, page 1> [10 <./PDFResponses/Kodak2.pdf, page is r
+otated 90 degrees>]
+<PDFResponses/LibraryAssistant1.pdf, id=56, page=1, 597.23125pt x 845.1575pt>
+File: PDFResponses/LibraryAssistant1.pdf Graphic file (type pdf)
+
+<use PDFResponses/LibraryAssistant1.pdf, page 1>
+File: PDFResponses/LibraryAssistant1.pdf Graphic file (type pdf)
+
+<use PDFResponses/LibraryAssistant1.pdf, page 1>
+File: PDFResponses/LibraryAssistant1.pdf Graphic file (type pdf)
+
+<use PDFResponses/LibraryAssistant1.pdf, page 1>
+File: PDFResponses/LibraryAssistant1.pdf Graphic file (type pdf)
+
+<use PDFResponses/LibraryAssistant1.pdf, page 1>
+File: PDFResponses/LibraryAssistant1.pdf Graphic file (type pdf)
+
+<use PDFResponses/LibraryAssistant1.pdf, page 1> [11 <./PDFResponses/LibraryAss
+istant1.pdf, page is rotated 90 degrees>]
+<PDFResponses/LibraryAssistant2.pdf, id=63, page=1, 597.23125pt x 845.1575pt>
+File: PDFResponses/LibraryAssistant2.pdf Graphic file (type pdf)
+
+<use PDFResponses/LibraryAssistant2.pdf, page 1>
+File: PDFResponses/LibraryAssistant2.pdf Graphic file (type pdf)
+
+<use PDFResponses/LibraryAssistant2.pdf, page 1>
+File: PDFResponses/LibraryAssistant2.pdf Graphic file (type pdf)
+
+<use PDFResponses/LibraryAssistant2.pdf, page 1>
+File: PDFResponses/LibraryAssistant2.pdf Graphic file (type pdf)
+
+<use PDFResponses/LibraryAssistant2.pdf, page 1>
+File: PDFResponses/LibraryAssistant2.pdf Graphic file (type pdf)
+
+<use PDFResponses/LibraryAssistant2.pdf, page 1> [12 <./PDFResponses/LibraryAss
+istant2.pdf, page is rotated 90 degrees>] (./report.aux) ) 
 Here is how much of TeX's memory you used:
- 1193 strings out of 493747
- 18387 string characters out of 3143546
- 92856 words of memory out of 3000000
- 4532 multiletter control sequences out of 15000+200000
+ 2606 strings out of 495000
+ 39178 string characters out of 1180493
+ 117166 words of memory out of 3000000
+ 5793 multiletter control sequences out of 15000+50000
  8773 words of font info for 31 fonts, out of 3000000 for 9000
- 714 hyphenation exceptions out of 8191
- 35i,6n,35p,241b,214s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2010/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmr10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmr12.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmssbx10.pfb>
-Output written on report.pdf (5 pages, 61706 bytes).
+ 36 hyphenation exceptions out of 8191
+ 36i,18n,41p,244b,399s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-tex
+live/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/t
+ype1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public/
+amsfonts/cm/cmssbx10.pfb>
+Output written on report.pdf (12 pages, 827383 bytes).
 PDF statistics:
- 32 PDF objects out of 1000 (max. 8388607)
- 21 compressed objects within 1 object stream
+ 79 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 
