@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  8 JUN 2012 17:29
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  8 JUN 2012 18:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -186,18 +186,18 @@ File: pppdftex.def 2010/01/12 v0.4j Pdfpages driver for pdfTeX (AM)
 (./report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
 \AtBeginShipoutBox=\box29
 
 (/usr/local/texlive/2010/texmf-dist/tex/context/base/supp-pdf.mkii
@@ -253,9 +253,9 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 19.
+(Font)              <14.4> on input line 22.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 19.
+(Font)              <7> on input line 22.
 
 (./report.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -271,25 +271,26 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 
-{/usr/local/texlive/2010/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
-
-] <PDFResponses/Templatepg1x.png, id=12, 999.735pt x 588.69937pt>
+{/usr/local/texlive/2010/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] <PDFRes
+ponses/Templatepg1x.png, id=9, 999.735pt x 588.69937pt>
 File: PDFResponses/Templatepg1x.png Graphic file (type png)
 
-<use PDFResponses/Templatepg1x.png>
+<use PDFResponses/Templatepg1x.png> [2
+
+]
 <PDFResponses/Templatepg2x.png, id=13, 999.735pt x 622.57594pt>
 File: PDFResponses/Templatepg2x.png Graphic file (type png)
 
 <use PDFResponses/Templatepg2x.png> [3 <./PDFResponses/Templatepg1x.png (PNG co
-py)> <./PDFResponses/Templatepg2x.png (PNG copy)>] [4] [5]
-<img/existingdevices.png, id=23, 262.9825pt x 146.5475pt>
+py)> <./PDFResponses/Templatepg2x.png (PNG copy)>] [4]
+<img/existingdevices.png, id=20, 262.9825pt x 146.5475pt>
 File: img/existingdevices.png Graphic file (type png)
 
 <use img/existingdevices.png>
-<img/q-sensor.jpg, id=24, 351.3125pt x 346.29375pt>
+<img/q-sensor.jpg, id=21, 351.3125pt x 346.29375pt>
 File: img/q-sensor.jpg Graphic file (type jpg)
  <use img/q-sensor.jpg>
-[6 <./img/existingdevices.png (PNG copy)> <./img/q-sensor.jpg>]
+[5] [6 <./img/existingdevices.png (PNG copy)> <./img/q-sensor.jpg>]
 <index.jpg, id=28, 991.705pt x 616.3025pt>
 File: index.jpg Graphic file (type jpg)
  <use index.jpg>
@@ -395,10 +396,10 @@ File: PDFResponses/LibraryAssistant2.pdf Graphic file (type pdf)
 <use PDFResponses/LibraryAssistant2.pdf, page 1> [17 <./PDFResponses/LibraryAss
 istant2.pdf, page is rotated 90 degrees>] (./report.aux) ) 
 Here is how much of TeX's memory you used:
- 3627 strings out of 493747
- 55047 string characters out of 3143546
- 144698 words of memory out of 3000000
- 6865 multiletter control sequences out of 15000+200000
+ 3628 strings out of 493747
+ 55056 string characters out of 3143546
+ 143779 words of memory out of 3000000
+ 6866 multiletter control sequences out of 15000+200000
  9081 words of font info for 32 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  42i,20n,50p,677b,403s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -407,7 +408,7 @@ Here is how much of TeX's memory you used:
 10/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2010
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2010/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on report.pdf (17 pages, 1181324 bytes).
+Output written on report.pdf (17 pages, 1181800 bytes).
 PDF statistics:
  106 PDF objects out of 1000 (max. 8388607)
  51 compressed objects within 1 object stream
